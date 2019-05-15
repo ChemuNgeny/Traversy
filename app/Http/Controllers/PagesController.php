@@ -29,3 +29,7 @@ class PagesController extends Controller
         return view('pages.services')->with($data);
     }
 }
+//npm install - used to install node modules for styling
+//    npm run dev - used to compile/build css when loaded in the web
+//F5 - clear cache
+//npm run watch - watch the files and changes faster
